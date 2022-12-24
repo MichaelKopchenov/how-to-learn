@@ -107,18 +107,18 @@
   font-style: normal;
 }
 
-.two-columns__span-accent {
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: 600;
-}
-
 .two-columns__paragraph {
   margin: 30px 0 0 ;
 }
 
 .two-columns__paragraph:first-of-type {
   margin-top: 0;
+}
+
+.two-columns__span-accent {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: 600;
 }
 
 .digits {
