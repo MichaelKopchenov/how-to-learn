@@ -229,10 +229,6 @@
   margin-top: 20px;
 }
 
-.table_theme_dark {
-  position: relative;
-}
-
 .table__cell_theme_dark {
   width: 200px;
   color: white;
