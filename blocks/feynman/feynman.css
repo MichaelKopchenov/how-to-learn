@@ -3,4 +3,5 @@
   position: relative;
   padding-top: 100px;
   min-height: 890px;
+  box-sizing: border-box;
 }
